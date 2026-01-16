@@ -1,4 +1,4 @@
-````md
+
 # User Management (Linux)
 
 This section covers **user and group management** in Linux. All commands are shown in a clean, consistent Markdown format with proper code blocks.
