@@ -1,4 +1,4 @@
-````md
+
 # Linux File Operations
 
 This section covers **file and directory management** in Linux, including creation, deletion, viewing, editing, and moving files. All commands are presented in clean Markdown with code blocks.
